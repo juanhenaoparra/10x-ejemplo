@@ -1,0 +1,12 @@
+{
+  "name": "servidor-basico-node",
+  "version": "1.0.0",
+  "description": "Un servidor web muy básico en Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
